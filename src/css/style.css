@@ -197,32 +197,3 @@ a:visited {
 a:hover {
     color: blueviolet;
 }
-
-/*a{
-    padding: 10px;
-    text-decoration: none;
-}
-
-//links não visitados
-a:link{
-    color: blue;
-}
-
-//Links visitados
-a:visited{
-    color: black;
-}
-
-//passa o mouse sobre o link
-a:hover{
-    color: brown;
-    background-color: burlywood;
-    font-size: 20px;
-}
-
-//links ativos
-a:active{
-    color: yellowgreen;
-    background-color: black;
-}
-*/

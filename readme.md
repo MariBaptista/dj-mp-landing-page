@@ -2,14 +2,10 @@
 
 ![preview](.github/preview.png)
 
-[🔗Link para o Projeto](https://deivsoares.github.io/dj-mp-landing-page/)
+[🔗Link para o Projeto](https://maribaptista.github.io/dj-mp-landing-page/)
 
- ## Tecnologias 🛠
+ ## Tecnologias 🛠 
 
  - HTML
  - CSS
  - Git e Github
-
- ## Contato ❤
-
- - Email
