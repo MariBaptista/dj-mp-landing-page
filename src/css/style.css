@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cabecalho {
+    background-color: black;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: fixed;
+}
+
+.simbolo-topo {
+    height: 100px;
+}
+
+.eventos {
+    color: white;
+    font-size: 30px;
+}
+
+.orcamento{
+    color: white;
+    font-size: 30px;
+}
+
+.contato{
+    color: white;
+    font-size: 30px;
+}
+
+.tamanho-img {
+    background-color: rgb(74, 11, 67);
+    width: 500px;
+    text-align: center;
+}
+
+a{
+    padding: 50px;
+    text-decoration: none;
+    
+}
+
+a:link {
+    color: white;
+    background-color: rgb(97, 97, 97);
+    border-radius: 50px;
+}
+
+a:active {
+    color: none;
+}
+
+a:visited {
+    color: none;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+/*a{
+    padding: 10px;
+    text-decoration: none;
+}
+
+//links não visitados
+a:link{
+    color: blue;
+}
+
+//Links visitados
+a:visited{
+    color: black;
+}
+
+//passa o mouse sobre o link
+a:hover{
+    color: brown;
+    background-color: burlywood;
+    font-size: 20px;
+}
+
+//links ativos
+a:active{
+    color: yellowgreen;
+    background-color: black;
+}
+*/
